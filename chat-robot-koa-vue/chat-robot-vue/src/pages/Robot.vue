@@ -55,11 +55,6 @@ export default {
       return Y+M+D+h+m
     }
   },
-  watch: {
-    robotMsgGetter() { //当数据改变了,则自动刷新
-      this.refresh();
-    }
-  },
   computed: {
   ...mapGetters([
       'robotMsgGetter'
