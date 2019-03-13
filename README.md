@@ -15,7 +15,7 @@ chat-robot一个简单的聊天机器人的入门，目前：
 
 
 # 栗子2：chat-robot-thinkjs-jq
-已经接入聊天机器人，欢迎访问sau交流学习社区：https://www.mwcxs.top。
+已经接入聊天机器人，欢迎访问sau交流学习社区：https://www.mwcxs.top
 
 展示：
 ![iamge](./chat-robot-koa-vue/image/chat-room-2.png)
